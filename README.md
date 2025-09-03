@@ -1,4 +1,8 @@
-## Hi there 👋
+### Sobre mim 
+-📍 Localização: São Paulo 
+-📚 Atualmente estudando: Tecnico em Informatica/ SENAC Tatuape   
+-📫 Como me encontrar: [email, LinkedIn, etc.]
+-💡 Estudando: Eletrica Basica
 
 <!--
 **zaharafsouza/zaharafsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Fun fact: ...
 -->
