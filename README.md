@@ -1,20 +1,17 @@
 ### Sobre mim 
--📍 Localização: São Paulo 
--📚 Atualmente estudando: Tecnico em Informatica/ SENAC Tatuape   
--📫 Como me encontrar: [email, LinkedIn, etc.]
--💡 Estudando: Eletrica Basica
+<h1 align="center">Olá 👋, eu sou Zahara Souza</h1>
 
-<!--
+<p align="center">
+Desenvolvedora focada em transformar ideias em soluções reais 🌟 <br>
+Apaixonada por tecnologia, aprendizado contínuo e boas práticas de código.
+
+### 🚀 Sobre mim
+
+- 🎓 Atualmente estudando **Tecnico de Informatica/ SENAC Tatuape**
+- 📍 Localização: SP- São Paulo     
+- 💡 Interesses: AI, Java Script etc  
+- 📫 Como me encontrar:
+- ✨ Buscando contribuir com projetos que impactam positivamente pessoas e comunidades
+
 **zaharafsouza/zaharafsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--Fun fact: ...
--->
