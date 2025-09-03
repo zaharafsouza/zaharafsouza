@@ -10,7 +10,6 @@ Apaixonada por tecnologia, aprendizado contínuo e boas práticas de código.
 - 🎓 Atualmente estudando **Tecnico de Informatica/ SENAC Tatuape**
 - 📍 Localização: SP- São Paulo     
 - 💡 Interesses: AI, Java Script etc  
-- 📫 Como me encontrar:
 - ✨ Buscando contribuir com projetos que impactam positivamente pessoas e comunidades
 
 **zaharafsouza/zaharafsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
